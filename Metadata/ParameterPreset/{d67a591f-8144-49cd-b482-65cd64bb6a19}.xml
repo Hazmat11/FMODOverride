@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d67a591f-8144-49cd-b482-65cd64bb6a19}">
+		<property name="name">
+			<value>EnumWalk</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1ea534b2-0498-46f3-97f8-1a8747be3d9e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c7f68b20-038b-4b22-a9df-5e86dfc3e339}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c7f68b20-038b-4b22-a9df-5e86dfc3e339}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

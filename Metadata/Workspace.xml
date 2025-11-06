@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{41a0515f-0c9e-4408-8088-18c072e32250}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/e.bertrand/Documents/GitHub/Override/Override/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{04e82981-8a7f-42fc-b73d-216b81908d15}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{63717ca1-0cf1-4dfb-af28-c5c84d43a3d1}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{1bc29c29-4b46-4764-9754-eb46da91d39e}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{1ea534b2-0498-46f3-97f8-1a8747be3d9e}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{60303654-85e4-4eb0-8fff-5838e851369c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{b51606ee-d0f5-43f5-9003-585d385840b7}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{4dd174b7-c0c1-494a-85ac-f3fcf83e3a76}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{4ba6a68c-6284-478a-ac2a-1a52c8c92a52}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{17c4b943-fd4d-4082-9c68-51b6cfc659c6}</destination>
+		</relationship>
+	</object>
+</objects>
