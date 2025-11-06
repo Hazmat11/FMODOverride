@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{41a0515f-0c9e-4408-8088-18c072e32250}">
 		<property name="builtBanksOutputDirectory">
-			<value>C:/Users/e.bertrand/Documents/GitHub/Override/Override/Content/FMOD</value>
+			<value>../Override/Override/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{04e82981-8a7f-42fc-b73d-216b81908d15}</destination>
