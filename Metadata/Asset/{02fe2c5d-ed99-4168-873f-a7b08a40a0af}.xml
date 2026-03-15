@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{02fe2c5d-ed99-4168-873f-a7b08a40a0af}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/AMBIENCE/SoundPoint/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>

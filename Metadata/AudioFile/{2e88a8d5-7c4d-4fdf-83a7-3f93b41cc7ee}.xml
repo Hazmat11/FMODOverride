@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{2e88a8d5-7c4d-4fdf-83a7-3f93b41cc7ee}">
 		<property name="assetPath">
-			<value>Weapons/Cut Laser End.wav</value>
+			<value>PLACEOLDER/Weapons/Cut Laser End.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>

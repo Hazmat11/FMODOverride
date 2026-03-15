@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{001f5ba2-0b4f-47eb-9758-c3424b193371}">
 		<property name="assetPath">
-			<value>Weapons/SCIWeap_SHOT Medium Laser Assault Rifle Auto_B00M_CWDS.wav</value>
+			<value>PLACEOLDER/Weapons/SCIWeap_SHOT Medium Laser Assault Rifle Auto_B00M_CWDS.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

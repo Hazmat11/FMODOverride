@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3a4fda16-0701-4f15-a664-4a099e6e5de5}">
 		<property name="assetPath">
-			<value>Parkour/667291__pekena_larva__voc_male_jump_03.wav</value>
+			<value>PLACEOLDER/Parkour/667291__pekena_larva__voc_male_jump_03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{d8d55b6d-c893-4ef4-b239-077598df9826}">
+		<property name="color">
+			<value>Yellow Light 2</value>
+		</property>
+		<property name="assetPath">
+			<value>PLACEOLDER/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>
