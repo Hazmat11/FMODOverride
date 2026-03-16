@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4c81e5e5-050d-429e-88f5-b3a2dbb84fe8}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/SFX_HitMarkerPN_04.wav</value>
+			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/HitMarker_Old/SFX_HitMarkerPN_04.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
