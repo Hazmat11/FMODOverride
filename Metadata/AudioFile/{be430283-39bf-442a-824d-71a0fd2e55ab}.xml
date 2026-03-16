@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{be430283-39bf-442a-824d-71a0fd2e55ab}">
 		<property name="assetPath">
-			<value>PLACEOLDER/Grunt/CC-CK VO Male 02 Pain Soft.wav</value>
+			<value>PLACEHOLDER/Grunt/CC-CK VO Male 02 Pain Soft.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

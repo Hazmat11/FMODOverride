@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{43142b4b-a523-45fb-9afb-bb68bd183fe0}">
 		<property name="assetPath">
-			<value>PLACEOLDER/Music/RidersXTV - Tchoupi au quartier (Remix Drill).wav</value>
+			<value>PLACEHOLDER/Music/RidersXTV - Tchoupi au quartier (Remix Drill).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

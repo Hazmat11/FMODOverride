@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{cbb4d7fb-4d9a-467f-b64b-1a1a41bb984e}">
 		<property name="assetPath">
-			<value>PLACEOLDER/Weapons/SCIWeap_SHOT Medium Laser Assault Rifle Auto_B00M_CWDS - Trimmed.wav</value>
+			<value>PLACEHOLDER/Weapons/SCIWeap_SHOT Medium Laser Assault Rifle Auto_B00M_CWDS - Trimmed.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
