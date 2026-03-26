@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{d4c8a77f-0ed4-4b05-9397-404d36d43f64}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_GameStart/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>
