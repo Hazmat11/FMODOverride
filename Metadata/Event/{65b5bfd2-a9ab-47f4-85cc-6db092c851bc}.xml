@@ -139,9 +139,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{9cef6812-69d9-49bb-9586-ce00747e9c36}">
-		<property name="volume">
-			<value>-80</value>
-		</property>
 		<property name="name">
 			<value>TorchAppearing_1_Variant_1</value>
 		</property>
@@ -164,9 +161,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7a2fe3a2-ba40-472c-a2b6-eb94229abcc2}">
-		<property name="volume">
-			<value>-80</value>
-		</property>
 		<property name="name">
 			<value>TorchAppearing_1_Variant_2</value>
 		</property>
