@@ -20,8 +20,11 @@
 		</property>
 		<property name="enumerationLabels">
 			<value>Blue</value>
-			<value>Orange</value>
 			<value>Red</value>
+			<value>Orange</value>
+		</property>
+		<property name="isHeld">
+			<value>true</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
