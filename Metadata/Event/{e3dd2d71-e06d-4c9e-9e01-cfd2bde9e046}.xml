@@ -56,7 +56,11 @@
 			<destination>{ec406916-cc58-4f90-be57-d33141b48f02}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{27392766-98f2-4d27-ba7a-b203a63e5bd1}" />
+	<object class="EventAutomatableProperties" id="{27392766-98f2-4d27-ba7a-b203a63e5bd1}">
+		<property name="maximumDistance">
+			<value>50</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{a99d738d-5b5d-4c71-a67f-8fc52a1a9c9c}" />
 	<object class="GroupTrack" id="{3c993b1c-9ba2-4051-8984-21b5727852e2}">
 		<relationship name="modules">
@@ -100,6 +104,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{1bacb9d0-2bdb-4cf1-a005-fdb71956747b}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<property name="name">
 			<value>Brazier</value>
 		</property>
