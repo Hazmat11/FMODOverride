@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{a99cfc8f-fa5e-4dc9-b2fc-eb40c182cff1}">
+	<object class="AudioFile" id="{02771d7f-739a-4117-937a-7b3917a69b8c}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/SFX/Gunplay/SFX_Shot_02.wav</value>
+			<value>SFX_ASSETS_FOLDER/SFX/Gunplay/Shoot/SFX_Shoot_12.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.80000000000000004</value>
+			<value>0.69999999999999996</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
