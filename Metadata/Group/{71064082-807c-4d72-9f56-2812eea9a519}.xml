@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>AMB</value>
 		</property>
+		<relationship name="masters">
+			<destination>{c59874e4-8949-4baf-95ab-a7abec0d0ca5}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{22f3d7a1-214e-46f9-a06e-4cebdf4eac43}</destination>
 		</relationship>

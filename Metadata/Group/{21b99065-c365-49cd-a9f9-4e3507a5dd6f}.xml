@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>Announcer</value>
 		</property>
+		<relationship name="masters">
+			<destination>{fa6bae99-16b6-4d97-8045-828146218e06}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{8f0eb3aa-b374-492b-a34b-54f221b70d11}</destination>
 		</relationship>
