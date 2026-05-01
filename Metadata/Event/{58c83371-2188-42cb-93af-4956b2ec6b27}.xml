@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{58c83371-2188-42cb-93af-4956b2ec6b27}">
 		<property name="name">
-			<value>Heals_Pack</value>
+			<value>MC_Heals_Pack</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

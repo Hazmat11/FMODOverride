@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f88b5744-49dc-4de4-8673-a1f5c54f48c8}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/SFX/Modulation/SFX_Modulation_Deactivated_02.wav</value>
+			<value>SFX_ASSETS_FOLDER/SFX/Modulation/OLD_SFX_Modulation_Deactivated_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

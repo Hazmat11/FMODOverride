@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ea9f9166-f0c9-484b-ad9d-bb392092f396}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_BrazierLitTwice/VOC_BrazierLitTwice_RedTeam.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_BrazierLitTwice/VOC_BrazierLitTwice_RedTeam.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

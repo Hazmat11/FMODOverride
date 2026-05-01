@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e3dd2d71-e06d-4c9e-9e01-cfd2bde9e046}">
 		<property name="name">
-			<value>Brazier</value>
+			<value>SP_Brazier</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

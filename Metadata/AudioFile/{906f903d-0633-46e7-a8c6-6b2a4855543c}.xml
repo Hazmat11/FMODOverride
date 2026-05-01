@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{906f903d-0633-46e7-a8c6-6b2a4855543c}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_GameStart/VOC_GameStart.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_GameStart/VOC_GameStart.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

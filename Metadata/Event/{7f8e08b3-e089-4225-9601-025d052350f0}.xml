@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7f8e08b3-e089-4225-9601-025d052350f0}">
 		<property name="name">
-			<value>HitMarker_Kill</value>
+			<value>SFX_UI_HitMarker_Kill</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -174,7 +174,7 @@
 	<object class="MixerBusFader" id="{0866cf3f-a4fc-4d37-b900-43cd7815ad18}" />
 	<object class="AutomationPoint" id="{7a9cd6d3-0bb5-417b-8b8c-db4851ec5832}">
 		<property name="position">
-			<value>0.67000000000000004</value>
+			<value>0.57999999999999996</value>
 		</property>
 		<property name="value">
 			<value>1</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{6bea45d4-2004-41ef-b023-3684bf8955e6}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_LastMinute_2/VOC_LastMinute_2.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_LastMinute_2/VOC_LastMinute_2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

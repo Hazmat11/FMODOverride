@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bfa98bac-2da7-4003-9733-154de1766f60}">
 		<property name="name">
-			<value>HitMarker_Headshot</value>
+			<value>SFX_UI_HitMarker_Headshot</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
