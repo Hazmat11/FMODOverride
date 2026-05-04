@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{a1b82987-8cf2-4e08-81b2-0fb2d4a66fa8}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_EndOfMatch/</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_EndOfMatch/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>

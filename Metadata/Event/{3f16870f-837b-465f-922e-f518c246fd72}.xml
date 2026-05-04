@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3f16870f-837b-465f-922e-f518c246fd72}">
 		<property name="name">
-			<value>Crowd_Cheer</value>
+			<value>SFX_Crowd_Cheer_Gun</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

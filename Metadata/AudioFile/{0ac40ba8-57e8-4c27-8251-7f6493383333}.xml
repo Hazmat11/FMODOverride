@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{0ac40ba8-57e8-4c27-8251-7f6493383333}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_TorchAppearing_1/VOC_TorchAppearing_1_Variant_1.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_TorchAppearing_1/VOC_TorchAppearing_1_Variant_1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

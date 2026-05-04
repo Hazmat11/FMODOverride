@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e31e9e67-61ee-4fec-a3f5-87a828bc3807}">
 		<property name="name">
-			<value>Start_Countdown</value>
+			<value>SFX_Start_Countdown</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

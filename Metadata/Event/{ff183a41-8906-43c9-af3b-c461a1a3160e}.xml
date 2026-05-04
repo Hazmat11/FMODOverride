@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ff183a41-8906-43c9-af3b-c461a1a3160e}">
 		<property name="name">
-			<value>SkillUnusable</value>
+			<value>SKILLS_SkillUnusable</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

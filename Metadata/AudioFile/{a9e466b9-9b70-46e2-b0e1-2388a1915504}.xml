@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a9e466b9-9b70-46e2-b0e1-2388a1915504}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_EndOfMatch/VOC_EndOfMatch_OrangeTeam.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_EndOfMatch/VOC_EndOfMatch_OrangeTeam.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

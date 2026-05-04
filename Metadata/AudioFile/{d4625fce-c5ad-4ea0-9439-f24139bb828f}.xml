@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d4625fce-c5ad-4ea0-9439-f24139bb828f}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/VOICES/VOC_Announcer/VOC_LastMinuteLead_1/VOC_LastMinuteLead_1_BlueTeam.wav</value>
+			<value>SFX_ASSETS_FOLDER/VOICES_PLACEOLDERS/VOC_Announcer/VOC_LastMinuteLead_1/VOC_LastMinuteLead_1_BlueTeam.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

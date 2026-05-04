@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b40216c8-bcca-46a4-aacb-47a128636f29}">
 		<property name="name">
-			<value>SlowBubbleEnd</value>
+			<value>SKILLS_SlowBubbleEnd</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

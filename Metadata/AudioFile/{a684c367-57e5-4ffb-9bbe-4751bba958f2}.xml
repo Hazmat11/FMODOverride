@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a684c367-57e5-4ffb-9bbe-4751bba958f2}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/MC/Life/SFX_HealsPickUp_02.wav</value>
+			<value>SFX_ASSETS_FOLDER/MC/Life/OLD_SFX_HealsPickUp_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

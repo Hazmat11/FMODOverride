@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bdad757e-dc02-4bbe-9495-b4460711fc9b}">
 		<property name="name">
-			<value>Wind_General_INT</value>
+			<value>BEDS_Wind_General_INT</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
