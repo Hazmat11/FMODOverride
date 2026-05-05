@@ -5,7 +5,7 @@
 			<value>BEDS_Finish_Game</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dbc3fec6-3d42-43a5-94cf-54d093b68aed}</destination>
@@ -57,7 +57,11 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{81752fcd-9bd3-468f-874a-841d8611e2f7}" />
+	<object class="EventAutomatableProperties" id="{81752fcd-9bd3-468f-874a-841d8611e2f7}">
+		<property name="maximumDistance">
+			<value>200</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{dae7d2e6-8e66-4f1b-bd79-d9d76a5f19df}" />
 	<object class="GroupTrack" id="{bef8aed0-81fd-403c-9c34-01a6832b1567}">
 		<relationship name="modules">
@@ -162,6 +166,7 @@
 	<object class="MixerBusEffectChain" id="{a7afd63e-67cd-4745-8c0c-f4c8b1cdfe07}">
 		<relationship name="effects">
 			<destination>{76c89521-d3b4-46b8-bb64-5963d7776853}</destination>
+			<destination>{ac6ec6fb-d14c-48ff-b2aa-f2800e047436}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{af749e2f-b6b4-4d2a-aae2-0ce16021675c}" />
@@ -179,6 +184,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{0fe55812-01af-4411-8d6f-b44c29b6396f}" />
 	<object class="MixerBusFader" id="{76c89521-d3b4-46b8-bb64-5963d7776853}" />
+	<object class="SpatialiserEffect" id="{ac6ec6fb-d14c-48ff-b2aa-f2800e047436}" />
 	<object class="MixerBusFader" id="{04b4d62f-a6ac-463e-8a42-a6a953f8352e}" />
 	<object class="MixerBusFader" id="{97c5af7a-b050-436a-8e0a-a5b56a8f13ad}" />
 </objects>
