@@ -5,7 +5,7 @@
 			<value>RFX_CrowdOla</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{3b422a69-6793-4692-920a-11957c3edad7}</destination>
@@ -57,7 +57,11 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{399c4b10-6644-4824-a849-d5e85f04a4f1}" />
+	<object class="EventAutomatableProperties" id="{399c4b10-6644-4824-a849-d5e85f04a4f1}">
+		<property name="maximumDistance">
+			<value>200</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{4e0d086f-d417-4432-93b0-414f7a6acc98}" />
 	<object class="GroupTrack" id="{3d7259b8-99f8-44e9-a2c3-ad51d90f5b17}">
 		<relationship name="modules">
@@ -147,6 +151,7 @@
 	<object class="MixerBusEffectChain" id="{8d9024b7-4d51-4016-a242-a9f035720662}">
 		<relationship name="effects">
 			<destination>{c453ff53-cea8-4374-adec-3362ceafa5bb}</destination>
+			<destination>{02ede37d-0ff8-4625-8af2-1ea4bfafe1de}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7c8b3fb9-2fa3-40de-b7f4-f3b0817fcd30}" />
@@ -184,6 +189,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{7a90d3e9-bb48-4f7a-8d21-8edeec5dcfad}" />
 	<object class="MixerBusFader" id="{c453ff53-cea8-4374-adec-3362ceafa5bb}" />
+	<object class="SpatialiserEffect" id="{02ede37d-0ff8-4625-8af2-1ea4bfafe1de}" />
 	<object class="MixerBusFader" id="{1a5edbb8-761e-4214-814c-47b94f0b4448}" />
 	<object class="MixerBusFader" id="{3214453f-d31d-4f72-a904-45cbd7cf2205}" />
 </objects>
