@@ -126,14 +126,7 @@
 			<destination>{4e28fd50-8d98-4557-a655-8b380eec2f88}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{dab2dc29-2f9a-46c3-8297-032f7279b253}">
-		<property name="surroundPanDirection">
-			<value>-112.619865</value>
-		</property>
-		<property name="surroundPanExtent">
-			<value>338.799988</value>
-		</property>
-	</object>
+	<object class="MixerBusPanner" id="{dab2dc29-2f9a-46c3-8297-032f7279b253}" />
 	<object class="MixerBusFader" id="{c96eefcf-b685-466b-9a99-4798492de89a}" />
 	<object class="SingleSound" id="{00d9d206-0191-4c64-87c9-9486ce2b1e2f}">
 		<relationship name="audioFile">
