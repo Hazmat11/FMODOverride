@@ -104,7 +104,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{10f0866e-edb3-40c8-ae26-264b82a4b7ca}">
 		<property name="volume">
-			<value>-2.5</value>
+			<value>-4</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -152,10 +152,10 @@
 	<object class="MixerBusFader" id="{41b1ad89-bba8-42dc-b49f-f8379a773035}" />
 	<object class="PitchShifterEffect" id="{d5970fcb-2105-411a-91bb-f381c9f42bbc}">
 		<property name="pitch">
-			<value>0.829999983</value>
+			<value>0.939999998</value>
 		</property>
 		<property name="fftSize">
-			<value>940</value>
+			<value>1120</value>
 		</property>
 		<property name="overlap">
 			<value>1</value>
@@ -169,7 +169,7 @@
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.25471893</value>
+			<value>0.156165153</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{678281e2-36ee-4164-abcf-140d1be85b12}">
