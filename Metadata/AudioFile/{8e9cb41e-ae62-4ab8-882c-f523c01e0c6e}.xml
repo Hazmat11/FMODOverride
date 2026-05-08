@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8e9cb41e-ae62-4ab8-882c-f523c01e0c6e}">
+		<property name="assetPath">
+			<value>MUSIC/STEMS/override thème VF - boucle - 118bpm - Lead_mélodie.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>187.11864583333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>
