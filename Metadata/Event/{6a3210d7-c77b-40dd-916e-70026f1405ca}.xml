@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6a3210d7-c77b-40dd-916e-70026f1405ca}">
 		<property name="name">
-			<value>MUS_MenuTheme</value>
+			<value>OLD_MUS_MenuTheme</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
