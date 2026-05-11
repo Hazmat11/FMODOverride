@@ -20,7 +20,7 @@
 		</property>
 		<property name="enumerationLabels">
 			<value>Plastic</value>
-			<value>Carpet</value>
+			<value>Tatami</value>
 			<value>Grass</value>
 			<value>Water</value>
 			<value>Dirt</value>

@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>ANNOUNCER</value>
 		</property>
+		<property name="instanceStealing">
+			<value>3</value>
+		</property>
 		<relationship name="masters">
 			<destination>{fa6bae99-16b6-4d97-8045-828146218e06}</destination>
 		</relationship>
