@@ -16,10 +16,11 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>4</value>
 		</property>
 		<property name="enumerationLabels">
 			<value>Menu</value>
+			<value>Settings</value>
 			<value>Character</value>
 			<value>Game Launch</value>
 		</property>
