@@ -5,7 +5,7 @@
 			<value>MC_Land</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5744dcc3-2402-4ac9-a1bf-ee8520be8ea0}</destination>
@@ -60,7 +60,11 @@
 			<destination>{ec406916-cc58-4f90-be57-d33141b48f02}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{2caa6047-8b8c-4df5-84de-0df783a5ab21}" />
+	<object class="EventAutomatableProperties" id="{2caa6047-8b8c-4df5-84de-0df783a5ab21}">
+		<property name="maximumDistance">
+			<value>30</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{d82f0c38-78d0-482b-b2d8-7c677f7fb842}" />
 	<object class="GroupTrack" id="{f2ac6bfc-26c2-4f4b-afc6-156790302f38}">
 		<relationship name="modules">
@@ -86,7 +90,11 @@
 			<destination>{7811cb0c-f4bb-4ceb-8b18-a3d783d6f147}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{f21e1794-c61a-4a7d-9ff4-19d9e2e1b858}" />
+	<object class="Timeline" id="{f21e1794-c61a-4a7d-9ff4-19d9e2e1b858}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
 	<object class="ParameterProxy" id="{b199c9de-638d-4b18-8fa5-c58d8a6ad678}">
 		<relationship name="modules">
 			<destination>{db15ef40-843e-4c93-bd43-2a9e70540917}</destination>
@@ -105,6 +113,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{a25dee05-3c0c-447a-97b1-33d2c198874b}">
+		<property name="volume">
+			<value>-12</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{099a13b6-e350-4ea9-bbf6-4478b38be9db}</destination>
 		</relationship>
@@ -319,6 +330,7 @@
 	<object class="MixerBusEffectChain" id="{099a13b6-e350-4ea9-bbf6-4478b38be9db}">
 		<relationship name="effects">
 			<destination>{5259f03f-143a-49b4-8b23-b1f7a6968404}</destination>
+			<destination>{f0ce6a5f-9a46-4a79-8162-a73556826fe0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2e7d5ae7-aeee-4a0e-9af1-38e022591f21}" />
@@ -836,6 +848,11 @@
 	</object>
 	<object class="MixerBusPanner" id="{2270f150-2214-4975-8257-130c02e73277}" />
 	<object class="MixerBusFader" id="{5259f03f-143a-49b4-8b23-b1f7a6968404}" />
+	<object class="SpatialiserEffect" id="{f0ce6a5f-9a46-4a79-8162-a73556826fe0}">
+		<property name="distanceRolloffType">
+			<value>2</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{0d6e187e-d2b5-443d-82cc-fef425647ac7}" />
 	<object class="MixerBusFader" id="{5c9129bc-52fe-4eb7-832b-6093fd23f2af}" />
 </objects>

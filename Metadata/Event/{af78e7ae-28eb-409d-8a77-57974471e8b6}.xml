@@ -5,7 +5,7 @@
 			<value>MC_Jump</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5744dcc3-2402-4ac9-a1bf-ee8520be8ea0}</destination>
@@ -60,7 +60,11 @@
 			<destination>{ec406916-cc58-4f90-be57-d33141b48f02}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{7e8b274d-6ccb-4266-b181-bdb92a5933e8}" />
+	<object class="EventAutomatableProperties" id="{7e8b274d-6ccb-4266-b181-bdb92a5933e8}">
+		<property name="maximumDistance">
+			<value>30</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{83975349-fb11-413f-b1d4-beb7a39de467}" />
 	<object class="GroupTrack" id="{f72ba428-636c-452b-986f-af95fb62ebd4}">
 		<relationship name="modules">
@@ -86,7 +90,11 @@
 			<destination>{34302f23-4e20-424c-a6da-3cb6768d2aa5}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{d71b4adb-dcc2-456b-9c24-6cab2f69e66d}" />
+	<object class="Timeline" id="{d71b4adb-dcc2-456b-9c24-6cab2f69e66d}">
+		<property name="isProxyEnabled">
+			<value>false</value>
+		</property>
+	</object>
 	<object class="ParameterProxy" id="{7b266113-f1e5-4f40-a07a-efdfbd45b719}">
 		<relationship name="modules">
 			<destination>{47e45b01-5859-4362-9bfe-7b0efe4066e8}</destination>
@@ -319,6 +327,7 @@
 	<object class="MixerBusEffectChain" id="{4270c87f-bab6-44fd-8200-6df9b9451914}">
 		<relationship name="effects">
 			<destination>{4ab8b544-b778-4e06-a004-c690d8159de1}</destination>
+			<destination>{ebfb9935-6962-454f-a89e-ebbc20f92140}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{140be998-c1b2-4a32-871d-ba9816071653}" />
@@ -836,6 +845,11 @@
 	</object>
 	<object class="MixerBusPanner" id="{82b43e52-3b41-4664-a364-17e78b61815a}" />
 	<object class="MixerBusFader" id="{4ab8b544-b778-4e06-a004-c690d8159de1}" />
+	<object class="SpatialiserEffect" id="{ebfb9935-6962-454f-a89e-ebbc20f92140}">
+		<property name="distanceRolloffType">
+			<value>2</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{713e0e3e-91d2-45a5-9f5b-b2e649121dc4}" />
 	<object class="MixerBusFader" id="{b0cf4c36-2bb6-4015-aeb5-baf6c5966076}" />
 </objects>
