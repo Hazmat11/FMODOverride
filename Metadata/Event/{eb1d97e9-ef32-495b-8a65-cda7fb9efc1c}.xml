@@ -57,8 +57,11 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{3f6a0ab9-66f3-46d2-9938-efaa4782e1d1}">
+		<property name="dopplerEnabled">
+			<value>true</value>
+		</property>
 		<property name="maximumDistance">
-			<value>30</value>
+			<value>45</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{9cad0d0c-ba93-457c-a396-9a4bbfd32724}" />
