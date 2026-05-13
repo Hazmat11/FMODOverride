@@ -96,9 +96,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{87ffdf93-26f9-4dac-ab72-5fcbd5f7eaa7}" />
 	<object class="SingleSound" id="{26ee83b4-a46f-4ab5-a038-d6571c0481ec}">
-		<property name="length">
-			<value>0.59999999999999998</value>
-		</property>
 		<relationship name="fadeInCurve">
 			<destination>{22056624-9821-4aeb-8b31-52027206053c}</destination>
 		</relationship>
