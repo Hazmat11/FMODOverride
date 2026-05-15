@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{af3841cb-62e3-49eb-a896-10d3d4782bc8}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/MC/Movement/Throw_Torch/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>

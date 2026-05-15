@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{45d8b3cf-b102-437a-bac6-422b3279418b}">
+	<object class="AudioFile" id="{56b62272-7cb9-454d-8ac6-0114475cc32b}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/MC/Life/OLD_SFX_HealsPickUp_01.wav</value>
+			<value>SFX_ASSETS_FOLDER/MC/Life/SFX_Death_Self_03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1</value>
+			<value>1.6000000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
