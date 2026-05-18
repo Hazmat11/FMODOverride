@@ -5,7 +5,7 @@
 			<value>BEDS_Enter_Players</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dbc3fec6-3d42-43a5-94cf-54d093b68aed}</destination>
@@ -166,7 +166,6 @@
 	<object class="MixerBusEffectChain" id="{8e48233c-568a-498c-950a-0feb5fc796db}">
 		<relationship name="effects">
 			<destination>{ec9490c7-4af7-4540-a035-a8f45ee9f541}</destination>
-			<destination>{ee065776-b4ca-4d25-a683-2658a6ecdbbf}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3ab95215-b3fe-4363-a07a-3cf47ca3cacc}" />
@@ -184,7 +183,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{d6d7181e-2399-4e66-8376-aab5672dd1e0}" />
 	<object class="MixerBusFader" id="{ec9490c7-4af7-4540-a035-a8f45ee9f541}" />
-	<object class="SpatialiserEffect" id="{ee065776-b4ca-4d25-a683-2658a6ecdbbf}" />
 	<object class="MixerBusFader" id="{503ca883-293b-4bb5-b413-3a846e03e12b}" />
 	<object class="MixerBusFader" id="{98b70c6c-ece1-470e-a8ba-c365414d849c}" />
 </objects>

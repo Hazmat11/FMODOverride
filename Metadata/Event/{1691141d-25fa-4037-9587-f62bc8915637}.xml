@@ -5,7 +5,7 @@
 			<value>BEDS_Crowd_General</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dbc3fec6-3d42-43a5-94cf-54d093b68aed}</destination>
@@ -151,7 +151,6 @@
 	<object class="MixerBusEffectChain" id="{25f031dd-8112-4d36-819e-3931c1c18cce}">
 		<relationship name="effects">
 			<destination>{41aed9b2-9056-4cd6-bff2-6c1a53808a19}</destination>
-			<destination>{ad2bbb98-c56f-499c-814c-8e042aff2a41}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3fd2e33b-a12b-43c7-9e83-9ac3a62e36c8}" />
@@ -180,7 +179,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{41aed9b2-9056-4cd6-bff2-6c1a53808a19}" />
-	<object class="SpatialiserEffect" id="{ad2bbb98-c56f-499c-814c-8e042aff2a41}" />
 	<object class="AutomationCurve" id="{8187b589-be3c-44b4-8282-befa4f63ed00}">
 		<relationship name="parameter">
 			<destination>{e5422f9e-51da-4231-b1a4-0e64089fa359}</destination>
