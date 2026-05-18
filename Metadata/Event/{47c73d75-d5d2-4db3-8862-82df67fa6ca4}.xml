@@ -5,7 +5,7 @@
 			<value>SKILLS_RollBack_Start</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{93bf9626-72f0-48a5-a30a-1fcb8eec88d0}</destination>
@@ -56,7 +56,11 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{a86bae0c-e159-4261-8b87-7a5183bf5f97}" />
+	<object class="EventAutomatableProperties" id="{a86bae0c-e159-4261-8b87-7a5183bf5f97}">
+		<property name="maximumDistance">
+			<value>45</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{5241e06b-f66b-4706-8f26-fb22e743e87e}" />
 	<object class="GroupTrack" id="{c6a8a2ba-c354-4d4c-876a-8a36ce015499}">
 		<relationship name="modules">
@@ -113,6 +117,7 @@
 	<object class="MixerBusEffectChain" id="{1db412bd-a67a-461d-99ff-f01d548698fb}">
 		<relationship name="effects">
 			<destination>{76734bc5-ed1b-4d5f-a0f0-354fdbd164e0}</destination>
+			<destination>{75ea7177-b36f-4eef-839e-d9fba045511d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ccfcf5ca-4bc3-407a-b584-01d5bfb20dd8}" />
@@ -124,5 +129,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{617a2270-8368-4bb6-b0de-79da9658e03d}" />
 	<object class="MixerBusFader" id="{76734bc5-ed1b-4d5f-a0f0-354fdbd164e0}" />
+	<object class="SpatialiserEffect" id="{75ea7177-b36f-4eef-839e-d9fba045511d}" />
 	<object class="MixerBusFader" id="{2fb39e56-f9da-4d72-828b-9f1bdbbd88a6}" />
 </objects>
