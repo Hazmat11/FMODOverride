@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{437942f8-cef3-4414-9a13-b59ea110c1cd}">
+	<object class="ParameterPreset" id="{0dd08fef-4fcf-46f4-9426-2a8872189ee1}">
 		<property name="name">
-			<value>MusiMenuParameter</value>
+			<value>OvertimeParameter</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1ea534b2-0498-46f3-97f8-1a8747be3d9e}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{0083f7db-776e-4fea-b6ec-581850c9c722}</destination>
+			<destination>{9701cacf-b19e-4f0e-8055-4134bad4c481}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{0083f7db-776e-4fea-b6ec-581850c9c722}">
+	<object class="GameParameter" id="{9701cacf-b19e-4f0e-8055-4134bad4c481}">
 		<property name="parameterType">
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>4</value>
+			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Menu</value>
-			<value>Settings</value>
-			<value>Character</value>
-			<value>Game Launch</value>
+			<value>Victory</value>
+			<value>Defeat</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
