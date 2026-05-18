@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{2ebfa6a0-8e5c-4999-9e13-19d6ba1a87ae}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/SFX_HitMarker/SFX_HitMarker_Kill/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>

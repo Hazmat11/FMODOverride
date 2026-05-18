@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{a1fbf7d3-d757-4b38-8d07-525c5afb2f52}">
+	<object class="AudioFile" id="{57218f52-31eb-4922-81c0-6d7b2fad3176}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/SFX_HitMarker/SFX_HitMarker_Kill_02.wav</value>
+			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/SFX_HitMarker/SFX_HitMarker_Kill/SFX_HitMarker_Kill_4_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
