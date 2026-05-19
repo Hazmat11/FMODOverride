@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{926c9698-f77e-498f-8b04-8f6c9cd940b4}">
 		<property name="name">
-			<value>BEDS_WaterPuddle</value>
+			<value>SP_WaterPuddle</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{dbc3fec6-3d42-43a5-94cf-54d093b68aed}</destination>
+			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{fd18fb80-ea57-40fb-abd8-0cb1b252735d}</destination>
