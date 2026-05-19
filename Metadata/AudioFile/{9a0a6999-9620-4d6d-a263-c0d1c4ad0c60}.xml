@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9a0a6999-9620-4d6d-a263-c0d1c4ad0c60}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/AMBIENCE/Beds/AMB_BEDS_Water_LP.wav</value>
+			<value>SFX_ASSETS_FOLDER/AMBIENCE/SoundPoint/AMB_SP_Water_LP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

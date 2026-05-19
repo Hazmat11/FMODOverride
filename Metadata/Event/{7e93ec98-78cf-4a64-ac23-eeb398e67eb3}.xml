@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7e93ec98-78cf-4a64-ac23-eeb398e67eb3}">
 		<property name="name">
-			<value>BEDS_Mountain</value>
+			<value>SP_Mountain</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{dbc3fec6-3d42-43a5-94cf-54d093b68aed}</destination>
+			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{bd1ea6e2-83fa-44e5-a990-b9aed28b484a}</destination>
