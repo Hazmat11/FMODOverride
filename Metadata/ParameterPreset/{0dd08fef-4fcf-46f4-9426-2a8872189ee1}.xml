@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{0dd08fef-4fcf-46f4-9426-2a8872189ee1}">
 		<property name="name">
-			<value>OvertimeParameter</value>
+			<value>OvertimeParam</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1ea534b2-0498-46f3-97f8-1a8747be3d9e}</destination>
