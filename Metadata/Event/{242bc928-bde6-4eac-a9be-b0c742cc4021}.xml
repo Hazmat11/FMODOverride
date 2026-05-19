@@ -5,7 +5,7 @@
 			<value>SP_Tree</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
@@ -137,9 +137,11 @@
 	<object class="MixerBusEffectChain" id="{6e3f8b52-ebac-421a-bb73-a577ffc32d5e}">
 		<relationship name="effects">
 			<destination>{241ffc10-204d-4676-85eb-926ef2243af3}</destination>
+			<destination>{b53b47ff-81de-45e7-8c45-b561d0b5b81f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{391b9af1-0a6a-4332-8f49-8f754362b3d5}" />
 	<object class="MixerBusFader" id="{ed292f89-555f-443d-863a-ffdceec46fbf}" />
 	<object class="MixerBusFader" id="{241ffc10-204d-4676-85eb-926ef2243af3}" />
+	<object class="SpatialiserEffect" id="{b53b47ff-81de-45e7-8c45-b561d0b5b81f}" />
 </objects>
