@@ -57,6 +57,9 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{89fbedcc-6fcd-4fda-afd8-ef6cdc603098}">
+		<property name="dopplerEnabled">
+			<value>true</value>
+		</property>
 		<property name="minimumDistance">
 			<value>5</value>
 		</property>
