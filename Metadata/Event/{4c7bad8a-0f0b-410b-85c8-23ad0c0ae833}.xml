@@ -5,7 +5,7 @@
 			<value>UI_TorchPing</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{282ede94-77aa-4561-9047-018256cabbfb}</destination>
@@ -56,7 +56,17 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{eee749d0-e1f7-4053-8937-b38856c8b53f}" />
+	<object class="EventAutomatableProperties" id="{eee749d0-e1f7-4053-8937-b38856c8b53f}">
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
+		<property name="minimumDistance">
+			<value>35</value>
+		</property>
+		<property name="maximumDistance">
+			<value>1000</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{e63a9c8d-73da-4fe5-8bd8-917dabe5baf7}" />
 	<object class="GroupTrack" id="{2d9f210a-96c7-4bee-8c75-1beb002c2b93}">
 		<relationship name="modules">
@@ -119,6 +129,7 @@
 	<object class="MixerBusEffectChain" id="{e2483bf0-06b2-4e8c-b2ff-a7758dc22127}">
 		<relationship name="effects">
 			<destination>{28074188-2d69-4b97-ab4a-a6a77080bd3e}</destination>
+			<destination>{7cbf589f-dc7f-4a40-af2c-b5121fa1ea0e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3bddb0c3-6ae7-4bf2-96e8-cd626a228bc1}" />
@@ -146,6 +157,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{fb92c47b-97ae-4a05-82c9-70c0f68e34c9}" />
 	<object class="MixerBusFader" id="{28074188-2d69-4b97-ab4a-a6a77080bd3e}" />
+	<object class="SpatialiserEffect" id="{7cbf589f-dc7f-4a40-af2c-b5121fa1ea0e}">
+		<property name="distanceRolloffType">
+			<value>2</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{d350f0cf-2e61-4755-abbd-c229ea27f17e}">
 		<property name="position">
 			<value>0.40625</value>
