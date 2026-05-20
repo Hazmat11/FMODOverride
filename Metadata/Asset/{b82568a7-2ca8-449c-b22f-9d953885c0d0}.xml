@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{b82568a7-2ca8-449c-b22f-9d953885c0d0}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/MC/Movement/Speed/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>

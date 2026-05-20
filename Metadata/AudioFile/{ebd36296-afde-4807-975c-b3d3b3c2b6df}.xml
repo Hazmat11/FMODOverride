@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{6ce62145-3c0d-48ba-9555-a8a3084e8930}">
+	<object class="AudioFile" id="{ebd36296-afde-4807-975c-b3d3b3c2b6df}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/SFX/SFX_UI/SFX_DashCooldown.wav</value>
+			<value>SFX_ASSETS_FOLDER/AMBIENCE/Rfx/AMB_RFX_BirdsTree_02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.71666666666666667</value>
+			<value>2.1666666666666665</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>

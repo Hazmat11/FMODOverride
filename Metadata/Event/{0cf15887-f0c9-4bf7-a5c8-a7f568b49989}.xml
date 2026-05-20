@@ -94,7 +94,7 @@
 	<object class="MixerBusPanner" id="{03afa516-4eaf-42b4-94a0-84cf55e13684}" />
 	<object class="SingleSound" id="{6a9be9dc-65cb-4c38-913b-f8a7109adf54}">
 		<property name="length">
-			<value>1.3333333333333333</value>
+			<value>0.71666666666666667</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{6ce62145-3c0d-48ba-9555-a8a3084e8930}</destination>
@@ -102,7 +102,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{03a6d85f-c487-4c86-8175-278c8983e943}">
 		<property name="volume">
-			<value>-7.5</value>
+			<value>-2.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
