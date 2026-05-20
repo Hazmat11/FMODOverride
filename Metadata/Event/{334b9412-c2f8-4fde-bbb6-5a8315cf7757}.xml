@@ -5,7 +5,7 @@
 			<value>UI_Ping</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{282ede94-77aa-4561-9047-018256cabbfb}</destination>
@@ -31,6 +31,9 @@
 		<relationship name="timeline">
 			<destination>{76a3f0d6-45cd-49ab-9b71-7028f1d4d220}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{518bb8d2-f731-465d-9202-28f2e0caad26}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{3b940b86-b042-4846-96fd-8393aa3ebdf9}">
 		<relationship name="masterBus">
@@ -53,7 +56,14 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{9e72c4bc-f5c7-4952-b2ae-c4788d6d8da7}" />
+	<object class="EventAutomatableProperties" id="{9e72c4bc-f5c7-4952-b2ae-c4788d6d8da7}">
+		<property name="maxVoices">
+			<value>2</value>
+		</property>
+		<property name="maximumDistance">
+			<value>1000</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{94281e41-2abd-437b-aa9a-0142270666ec}" />
 	<object class="GroupTrack" id="{32da1261-c249-4f22-8fea-744a9b281fcf}">
 		<relationship name="modules">
@@ -110,6 +120,7 @@
 	<object class="MixerBusEffectChain" id="{a47f9d9c-fea8-471f-8078-e3eb16fbe064}">
 		<relationship name="effects">
 			<destination>{6b687010-23ae-4f24-bbed-38c5eca99415}</destination>
+			<destination>{9e690d59-d9b5-4e07-88e3-0c2e0ae24ba0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c4258738-60bb-4045-b906-1d2d5104824c}" />
@@ -121,5 +132,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{b739c453-8734-45b3-bd93-cc5db7f41ecf}" />
 	<object class="MixerBusFader" id="{6b687010-23ae-4f24-bbed-38c5eca99415}" />
+	<object class="SpatialiserEffect" id="{9e690d59-d9b5-4e07-88e3-0c2e0ae24ba0}">
+		<property name="distanceRolloffType">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{3a4e5285-6e46-4b56-9265-d34df3eec43f}" />
 </objects>
