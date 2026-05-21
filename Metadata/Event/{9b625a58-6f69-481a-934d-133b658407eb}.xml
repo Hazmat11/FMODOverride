@@ -100,7 +100,7 @@
 	<object class="MixerBusPanner" id="{3f1a967f-03fc-4759-ae21-0a0fbb05b366}" />
 	<object class="SingleSound" id="{bf7ce224-2e65-4d8f-9093-3b89a70ed1b7}">
 		<property name="length">
-			<value>0.66666666666666663</value>
+			<value>0.76225099152784415</value>
 		</property>
 		<property name="pitch">
 			<value>0.100000001</value>
@@ -206,7 +206,7 @@
 	<object class="MixerBusFader" id="{d9b93323-dfbb-41f1-ac77-cac8cacd026c}" />
 	<object class="AutomationPoint" id="{9619ae65-23f2-4dd4-b9be-8840f526775b}">
 		<property name="position">
-			<value>0.5</value>
+			<value>0.59558432486117763</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -217,7 +217,7 @@
 	</object>
 	<object class="AutomationPoint" id="{fb75dc9b-6b9f-4083-b3ed-8b2a68bfe199}">
 		<property name="position">
-			<value>0.66666666666666663</value>
+			<value>0.76225099152784415</value>
 		</property>
 		<property name="value">
 			<value>0</value>
