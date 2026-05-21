@@ -5,7 +5,7 @@
 			<value>SP_Mountain</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
@@ -56,7 +56,11 @@
 			<destination>{71064082-807c-4d72-9f56-2812eea9a519}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{7526593e-bbcf-42a4-b883-b42fcbbb1264}" />
+	<object class="EventAutomatableProperties" id="{7526593e-bbcf-42a4-b883-b42fcbbb1264}">
+		<property name="maximumDistance">
+			<value>35</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{49531ee6-86f6-40dc-bcac-cbce892b21b7}" />
 	<object class="GroupTrack" id="{ad208024-4221-490c-a301-a0a28ca45502}">
 		<relationship name="modules">
@@ -130,6 +134,7 @@
 	<object class="MixerBusEffectChain" id="{71da9391-9b51-4d6d-b480-90c0c0e91f0c}">
 		<relationship name="effects">
 			<destination>{3b167f7b-d12b-48e1-868d-a0b5abc71b14}</destination>
+			<destination>{776799f8-4638-401f-b244-d37285355010}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2a4ca4a9-6631-44b2-9cdc-ddced9480e93}" />
@@ -141,5 +146,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{323cf434-347c-4e6a-bdbc-6e7419748b13}" />
 	<object class="MixerBusFader" id="{3b167f7b-d12b-48e1-868d-a0b5abc71b14}" />
+	<object class="SpatialiserEffect" id="{776799f8-4638-401f-b244-d37285355010}">
+		<property name="distanceRolloffType">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{96720206-c9fa-4ef2-b100-a979b3328cc8}" />
 </objects>

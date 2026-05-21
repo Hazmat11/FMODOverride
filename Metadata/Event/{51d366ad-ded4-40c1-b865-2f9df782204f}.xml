@@ -5,7 +5,7 @@
 			<value>SP_Foliage</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
@@ -56,7 +56,11 @@
 			<destination>{ef2dcbb3-9e9a-4480-9d01-dbdc0d9358c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{2a62d502-a2e1-4a37-ae01-671bf86ae4fe}" />
+	<object class="EventAutomatableProperties" id="{2a62d502-a2e1-4a37-ae01-671bf86ae4fe}">
+		<property name="maximumDistance">
+			<value>8</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{fb17ee7b-bdc9-4d84-8647-d42f454d32df}" />
 	<object class="GroupTrack" id="{b3477be0-8f02-4bb3-9341-91a78ae9383d}">
 		<relationship name="modules">
@@ -130,6 +134,7 @@
 	<object class="MixerBusEffectChain" id="{e2b346ea-3612-4fe5-bdd3-c65d306cb4ac}">
 		<relationship name="effects">
 			<destination>{125af9eb-b4f6-48d8-91b8-d75639b6b11f}</destination>
+			<destination>{4841d6a1-1ab7-4a5f-875b-a7bbec61bbce}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{baf77cbf-8627-4e28-89c0-359a7c74eb61}" />
@@ -141,5 +146,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{334675b8-83fc-444a-997a-d7821d74de49}" />
 	<object class="MixerBusFader" id="{125af9eb-b4f6-48d8-91b8-d75639b6b11f}" />
+	<object class="SpatialiserEffect" id="{4841d6a1-1ab7-4a5f-875b-a7bbec61bbce}" />
 	<object class="MixerBusFader" id="{f5ce896c-15ae-432c-8b08-4230327f78b7}" />
 </objects>

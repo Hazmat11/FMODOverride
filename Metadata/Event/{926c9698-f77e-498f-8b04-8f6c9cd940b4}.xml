@@ -5,7 +5,7 @@
 			<value>SP_WaterPuddle</value>
 		</property>
 		<property name="outputFormat">
-			<value>5</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{83e7bc05-78da-40d6-9b63-464f9fc3735f}</destination>
@@ -171,6 +171,7 @@
 	<object class="MixerBusEffectChain" id="{a4e98201-9404-4bd4-9433-01124625108e}">
 		<relationship name="effects">
 			<destination>{d617d782-a434-48a4-9e57-a625d6c48e78}</destination>
+			<destination>{2bd50891-fdfa-4b2e-acc1-0601b50d6ee7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9da41bc0-8c0a-4f9d-9723-23a33c739eb8}" />
@@ -197,6 +198,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{e58c10eb-7c7f-4326-a649-7e877c597be8}" />
 	<object class="MixerBusFader" id="{d617d782-a434-48a4-9e57-a625d6c48e78}" />
+	<object class="SpatialiserEffect" id="{2bd50891-fdfa-4b2e-acc1-0601b50d6ee7}" />
 	<object class="MixerBusFader" id="{442b19c2-dedf-4ba7-8791-ac7994b9517d}" />
 	<object class="SingleSound" id="{307fc67e-0693-4d8d-932d-458ec1fc8125}">
 		<relationship name="audioFile">
