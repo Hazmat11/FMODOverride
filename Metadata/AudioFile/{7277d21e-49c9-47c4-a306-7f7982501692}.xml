@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{b6e7db7c-515b-451a-ac45-932cdd2c2feb}">
+	<object class="AudioFile" id="{7277d21e-49c9-47c4-a306-7f7982501692}">
 		<property name="assetPath">
-			<value>SFX_ASSETS_FOLDER/MC/Movement/FTS/Foleys/MC_FTS_FoleysWalk_09.wav</value>
+			<value>SFX_ASSETS_FOLDER/MC/Movement/FTS/Foleys/MC_FTS_FoleysRun_07.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.73333333333333328</value>
+			<value>0.66666666666666663</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
