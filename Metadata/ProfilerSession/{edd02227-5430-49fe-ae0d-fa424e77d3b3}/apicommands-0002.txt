@@ -1,0 +1,39 @@
+Playback::frame, 0
+Playback::version, 2, 131856
+#
+# FMOD v2.03.10 command capture
+#   System::setSoftwareChannels(numsoftwarechannels: 64)
+#   System::setDSPBufferSize(bufferlength: 512, numbuffers: 4)
+#   System::setSoftwareFormat(samplerate: 48000, speakermode: 6, numrawspeakers: 6)
+#   System::setAdvancedSettings(settings: {maxMPEGCodecs: 0, maxADPCMCodecs: 0, maxXMACodecs: 0, maxVorbisCodecs: 64, maxAT9Codecs: 0, maxFADPCMCodecs: 0, maxOpusCodecs: 0
+#       ASIONumChannels: 0, vol0virtualvol: 0.001, defaultDecodeBufferSize: 400, geometryMaxFadeTime: 0,
+#       distanceFilterCenterFreq: 1500, reverb3Dinstance: 0, DSPBufferPoolSize: 8, resamplerMethod: 2, randomSeed: 7935})
+#   Studio::System::setAdvancedSettings(settings: {commandqueuesize: 32768, handleinitialsize: 65536, studioupdateperiod: 20, idlesampledatapoolsize: 262144})
+#   Studio::System::initialize(maxchannels: 512, studioflags: 0x00000001, flags: 0x00030000)
+#
+Playback::frame, 0
+# Printing initial instance state
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/Master.bank, 0, 2097248
+Playback::loadBankFinished, {c962e91f-efcb-4c6b-9bdb-d38c344dbb1a}, 2097248, 0
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/Master.strings.bank, 0, 2097504
+Playback::loadBankFinished, {517fc9cb-9eb0-0029-1d92-5972c5bebd82}, 2097504, 0
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/Music.bank, 0, 2097760
+Playback::loadBankFinished, {e82c5c23-9e1b-468b-8a82-d5820ac1354f}, 2097760, 0
+Bank::getEventListItem, 2097760, 0, {d8475b7a-6337-4cef-84a8-63ce74efdcd1}, 2098784
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/SFX.bank, 0, 2098016
+Playback::loadBankFinished, {518bb8d2-f731-465d-9202-28f2e0caad26}, 2098016, 0
+Bank::getEventListItem, 2098016, 0, {9b625a58-6f69-481a-934d-133b658407eb}, 2099552
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/AMB.bank, 0, 2098272
+Playback::loadBankFinished, {783a3a24-bbad-40f0-9ccb-7a08fe1cdefa}, 2098272, 0
+System::loadBankFile, ../../../../../../REPO/Override/Override/Content/FMOD/Desktop/ANNOUNCER.bank, 0, 2098528
+Playback::loadBankFinished, {d4f0ef27-f21e-4495-9d06-08752e6a73e1}, 2098528, 0
+System::setListenerAttributes, 0, {{-40,12,-17},{0,0,0},{0.876131,0.00261389,-0.482067},{-0.00229012,0.999997,0.00126007}}, {-40,12,-17}, true
+EventDescription::createInstance, 2098784, 2099296
+EventInstance::setTimelinePosition, 2099296, 18688
+EventInstance::start, 2099296
+EventInstance::release, 2099296
+# Finished printing initial instance state
+Playback::frame, 11264
+System::setListenerAttributes, 0, {{-40,12,-17},{0,0,0},{0.867742,0.00132093,-0.497013},{-0.00114623,0.999999,0.00065652}}, {0,0,0}, false
+Playback::frame, 16384
+System::setListenerAttributes, 0, {{-40,12,-17},{0,0,0},{0.858969,0.000656586,-0.512027},{-0.000563987,1,0.000336189}}, {0,0,0}, false

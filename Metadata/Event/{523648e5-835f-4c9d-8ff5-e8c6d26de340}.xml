@@ -163,12 +163,6 @@
 		<property name="initialValue">
 			<value>-80</value>
 		</property>
-		<property name="attackTime">
-			<value>3000</value>
-		</property>
-		<property name="releaseTime">
-			<value>0</value>
-		</property>
 		<property name="finalValue">
 			<value>-80</value>
 		</property>
@@ -186,7 +180,7 @@
 		<relationship name="automationPoints">
 			<destination>{647f3001-9a39-4492-a4be-e8d8243461b7}</destination>
 			<destination>{9a4dbf5e-ae68-4068-8ad8-05b3828fa7e1}</destination>
-			<destination>{b5c008ea-6c16-46b2-9496-e0966ca1ff0e}</destination>
+			<destination>{080e942e-3de1-4bb9-ae3a-3cfd57bd9b4c}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{27c5670f-2eb8-40d9-969e-54465e68840f}" />
@@ -198,6 +192,12 @@
 		<property name="value">
 			<value>-80</value>
 		</property>
+		<property name="curveShape">
+			<value>0.5</value>
+		</property>
+		<property name="isSCurve">
+			<value>true</value>
+		</property>
 	</object>
 	<object class="AutomationPoint" id="{9a4dbf5e-ae68-4068-8ad8-05b3828fa7e1}">
 		<property name="position">
@@ -207,9 +207,9 @@
 			<value>10</value>
 		</property>
 	</object>
-	<object class="AutomationPoint" id="{b5c008ea-6c16-46b2-9496-e0966ca1ff0e}">
+	<object class="AutomationPoint" id="{080e942e-3de1-4bb9-ae3a-3cfd57bd9b4c}">
 		<property name="position">
-			<value>0.20000000000000001</value>
+			<value>0.40000000000000002</value>
 		</property>
 		<property name="value">
 			<value>0</value>
