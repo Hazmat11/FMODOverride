@@ -58,7 +58,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{59669fc7-a4ee-4eba-8a5f-14648e3ac574}">
 		<property name="maximumDistance">
-			<value>50</value>
+			<value>75</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{aa77eb75-2537-4657-9a42-76fb160577a1}" />
@@ -104,9 +104,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{4f500516-a0aa-49ed-867c-c33f5b8e5d0d}">
-		<property name="volume">
-			<value>-4</value>
-		</property>
 		<property name="name">
 			<value>Brazier</value>
 		</property>
