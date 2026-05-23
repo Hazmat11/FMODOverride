@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e550b882-6e24-4654-af54-61d8598c3aa6}">
 		<property name="assetPath">
-			<value>AMB_SP_Banner_LP.wav</value>
+			<value>SFX_ASSETS_FOLDER/AMBIENCE/SoundPoint/AMB_SP_Banner_LP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
