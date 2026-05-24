@@ -5,7 +5,7 @@
 			<value>MC_Death_Self</value>
 		</property>
 		<property name="outputFormat">
-			<value>5</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{919ce552-9268-4d48-a071-ec4ea6846d94}</destination>
@@ -131,7 +131,6 @@
 	<object class="MixerBusEffectChain" id="{d091e091-4769-4ef3-88d3-fc48808b9be1}">
 		<relationship name="effects">
 			<destination>{b3f6fbec-9cb2-4dde-b98c-e3073cd173cc}</destination>
-			<destination>{0af4e71d-3f84-4028-ae01-58e973fe7e87}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{128fee41-c119-451e-960c-c8874408e96c}">
@@ -176,11 +175,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{3e135a16-090c-42af-a32d-15d0dadba4d2}" />
 	<object class="MixerBusFader" id="{b3f6fbec-9cb2-4dde-b98c-e3073cd173cc}" />
-	<object class="PannerEffect" id="{0af4e71d-3f84-4028-ae01-58e973fe7e87}">
-		<property name="overridingOutputFormat">
-			<value>5</value>
-		</property>
-	</object>
 	<object class="Automator" id="{790c4da4-d1b8-421b-abe7-ed5be4d0f4c2}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>surroundPanDirection</value>
