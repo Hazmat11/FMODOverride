@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2bf43de0-2cb0-45d8-b18f-7098d985bb2c}">
+		<property name="assetPath">
+			<value>SFX_ASSETS_FOLDER/CINEMATIC/CINEMATIC_EndResult_PH.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.949999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e108c90c-c12a-4226-b828-084a87c6925c}</destination>
+		</relationship>
+	</object>
+</objects>
